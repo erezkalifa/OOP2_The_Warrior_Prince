@@ -1,10 +1,13 @@
-
+## Preview
 <div>
-    <a href="https://github.com/erezkalifa/OOP2_The_Warrior_Princes"><img src="https://github.com/erezkalifa/OOP2_The_Warrior_Prince/blob/fe4418bacafb93b02e2f5322cbfde7f99e4dbd64/Screenshots/Warrior%20Price%20Screenshot.png" alt="The Warrior Prince" title="The Warrior Prince"></a>
+    <img src="https://github.com/erezkalifa/OOP2_The_Warrior_Prince/blob/fe4418bacafb93b02e2f5322cbfde7f99e4dbd64/Screenshots/Warrior.gif" alt="Preview">
 </div>
+        <a href="https://youtu.be/upOmR2-DD1w">Click here</a> for a Full Game-Play on Youtube.
+
+
 
 <div>
-    Open-source <strong>The Warrior Prince</strong>
+    <br>Open-source<strong>The Warrior Prince</strong>
 </div>
 
 <div>
@@ -30,12 +33,6 @@
 This project uses [SFML library](https://www.sfml-dev.org/download/sfml/2.5.1/).
 
 
-## Preview
-<div>
-    <img src="https://github.com/erezkalifa/OOP2_The_Warrior_Prince/blob/fe4418bacafb93b02e2f5322cbfde7f99e4dbd64/Screenshots/Warrior.gif" alt="Preview">
-</div>
-
-[click here](https://youtu.be/upOmR2-DD1w) Game Play on Youtube.
 
 
 ## Running the application
